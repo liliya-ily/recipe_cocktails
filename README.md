@@ -37,27 +37,27 @@ https://t.me/neuro_bar_bot
 
 # Структура бота
 
-bot.py
+**bot.py**
 
 Бот с основным алгоритмом. 
 
-markups.py
+**markups.py**
 
 Структура кнопок бота.
 
-mydataset.py
+**mydataset.py**
 
 Класс, отвечающий за добавление специальных токенов для условной генерации текста. 
 
-static_text.py
+**static_text.py**
 
 Здесь находятся тексты для нашего бота. 
 
-requirements.txt
+**requirements.txt**
 
 В этом файле лежат библиотеки, которые используются и которые необходимо установить локально на компьютер, чтобы запустить бота. 
 
-ready_recipe.csv
+**ready_recipe.csv**
 
 Датасет, на основе которого бот выдаёт существующий рецепт на основе введенных ингредиентов.
 
@@ -66,5 +66,5 @@ ready_recipe.csv
 
 # Команда
 
-https://github.com/liliya-ily
-https://github.com/deparma
+https://github.com/liliya-ily <br>
+https://github.com/deparma <br>
